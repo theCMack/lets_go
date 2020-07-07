@@ -1,4 +1,4 @@
-module example.com/user/hello
+module blue.com/user/hello
 
 go 1.13
 
