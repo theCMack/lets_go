@@ -1,4 +1,4 @@
-module blue.com/user/hello
+module github.com/thecmack/lets_go
 
 go 1.13
 
